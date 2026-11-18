@@ -1,1 +1,0 @@
-# lgd-loop-fixture
