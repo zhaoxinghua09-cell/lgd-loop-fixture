@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "LGD AI-INDEX",
+  "skills": [
+    {
+      "name": "table-clean",
+      "path": "table-clean",
+      "version": "1.0.0",
+      "description_zh": "把粘贴的乱表格整理成规整的 Markdown 表格",
+      "description_en": "Turn pasted messy tables into tidy Markdown tables",
+      "entry": "table-clean/SKILL.md",
+      "triggers": ["整理表格", "乱表格", "clean table", "markdown table"],
+      "safety": "只处理文本表格，不处理图片中的表格",
+      "license": "MIT"
+    }
+  ]
+}
